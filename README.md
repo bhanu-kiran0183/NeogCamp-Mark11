@@ -9,4 +9,4 @@ Created app to check whether your birthday is lucky or not.
 
 ## Live Project
 
-* [CashRegisterManagerApp](birthdaylckyornot.netlify.app)
+* [BirthdayLuckyorNot](https://relaxed-longma-379b46m11.netlify.app/)
